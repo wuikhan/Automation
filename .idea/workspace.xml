@@ -10,9 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Automation$Unittest_testClass_testMethod.coverage" NAME="Unittest testClass.testMethod Coverage Results" MODIFIED="1489283244346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Automation$findElement.coverage" NAME="findElement Coverage Results" MODIFIED="1489284483248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Automation$Unittest_testClas_testMetho.coverage" NAME="Unittest testClas.testMetho Coverage Results" MODIFIED="1489283455549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Automation$new.coverage" NAME="new Coverage Results" MODIFIED="1489281363586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Automation$Unittests_in_testClass.coverage" NAME="Unittests in testClass Coverage Results" MODIFIED="1489282897609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Automation$FireFoxTests.coverage" NAME="FireFoxTests Coverage Results" MODIFIED="1489280935018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Automation$Unittest_testClass_testMethod__1_.coverage" NAME="Unittest testClass.testMethod (1) Coverage Results" MODIFIED="1489283157510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Automation$Unittests_in_classMethod.coverage" NAME="Unittests in classMethod Coverage Results" MODIFIED="1489281432574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Automation$Unittest_testClass_testMethod__2_.coverage" NAME="Unittest testClass.testMethod (2) Coverage Results" MODIFIED="1489283183866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -30,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="classMethod.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="classMethod.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Basics/classMethod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findElement.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Basics/findElement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -56,6 +72,7 @@
         <option value="$PROJECT_DIR$/new.py" />
         <option value="$PROJECT_DIR$/Basics/new.py" />
         <option value="$PROJECT_DIR$/Basics/classMethod.py" />
+        <option value="$PROJECT_DIR$/Basics/findElement.py" />
       </list>
     </option>
   </component>
@@ -118,8 +135,8 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in classMethod">
-    <configuration default="false" name="FireFoxTests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.findElement">
+    <configuration default="false" name="findElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -132,30 +149,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Automation" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/openFirefox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/findElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="new" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Automation" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/classMethod.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in classMethod" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest testClass.testMethod" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -166,11 +165,80 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Automation" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/classMethod.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/findElement.py" />
+      <option name="CLASS_NAME" value="testClass" />
+      <option name="METHOD_NAME" value="testMethod" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest testClass.testMethod (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Automation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/findElement.py" />
+      <option name="CLASS_NAME" value="testClass" />
+      <option name="METHOD_NAME" value="testMethod" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest testClass.testMethod (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Automation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/findElement.py" />
+      <option name="CLASS_NAME" value="testClass" />
+      <option name="METHOD_NAME" value="testMethod" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest testClas.testMetho" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Automation" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/findElement.py" />
+      <option name="CLASS_NAME" value="testClas" />
+      <option name="METHOD_NAME" value="testMetho" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -392,16 +460,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="Python.FireFoxTests" />
-      <item index="1" class="java.lang.String" itemvalue="Python.new" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in classMethod" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.findElement" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest testClas.testMetho" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in classMethod" />
-        <item index="1" class="java.lang.String" itemvalue="Python.new" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FireFoxTests" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.findElement" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest testClas.testMetho" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest testClass.testMethod (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,11 +491,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_classMethod - 2017.03.11 at 20h 16m 57s.xml">
-      <configuration name="Unittests in classMethod" configurationId="tests" />
+    <history-entry file="Unittest_testClas_testMetho - 2017.03.11 at 20h 50m 50s.xml">
+      <configuration name="Unittest testClas.testMetho" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClas_testMetho - 2017.03.11 at 20h 50m 55s.xml">
+      <configuration name="Unittest testClas.testMetho" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod - 2017.03.11 at 20h 41m 22s.xml">
+      <configuration name="Unittest testClass.testMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod - 2017.03.11 at 20h 42m 00s.xml">
+      <configuration name="Unittest testClass.testMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod - 2017.03.11 at 20h 45m 50s.xml">
+      <configuration name="Unittest testClass.testMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod - 2017.03.11 at 20h 46m 35s.xml">
+      <configuration name="Unittest testClass.testMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod - 2017.03.11 at 20h 47m 28s.xml">
+      <configuration name="Unittest testClass.testMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_testClass_testMethod_(1) - 2017.03.11 at 20h 45m 57s.xml">
+      <configuration name="Unittest testClass.testMethod (1)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_classMethod - 2017.03.11 at 20h 17m 17s.xml">
       <configuration name="Unittests in classMethod" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testClass - 2017.03.11 at 20h 41m 38s.xml">
+      <configuration name="Unittests in testClass" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -436,11 +532,11 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,8 +590,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Basics/classMethod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/VirtualEnvironment/lib/python3.6/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basics/findElement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding />
         </state>
       </provider>
